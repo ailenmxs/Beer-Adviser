@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="beers">
+        <item>Bud Light | Coors Light | Miller Lite</item>
+        <item>Anchor Steam | Abita Amber | Bells Amber</item>
+        <item>Hazelnut Rogue | Moose Drool | Downtown Brown</item>
+        <item>Murphys Stout | Anchor Porter | Ten FIDY</item>
+    </string-array>
+</resources>
